@@ -1,0 +1,161 @@
+,respondent,variant,time,categories,age,gender,education,income,domain,crt,labelClarity,sortDifficulty,concentration,timeAmount,cardQuantity,bfExtra,bfAgree,bfConsc,bfNegEmo,bfOpenMind,att1,att2,note,informativeness
+0,5,E50,403,2,18 - 24,Woman,Technical/community college,"£20,000 - £29,999",At least once a month,0,4,3,5,3,2,12,13,12,8,12,Salad,30,no,42.25352937480595
+1,6,E50,1129,11,18 - 24,Woman,High school diploma,"£0 - £9,999",At least once a week,1,4,4,5,3,2,5,9,6,14,11,Salad,30,very good study to understand and questions were easy to follow aswell,37.982634308993795
+2,7,E50,424,4,18 - 24,Man,Undergraduate degree,No income,At least once a week,3,4,3,5,3,2,10,12,12,4,11,Salad,30,Did not answer,31.77389408076045
+3,8,E50,650,9,18 - 24,Man,Undergraduate degree,"More than £100,000",Less often,3,5,4,4,3,4,11,14,14,4,14,Salad,30,Did not answer,20.76199977775966
+4,10,E50,773,7,18 - 24,Man,High school diploma,No income,Less often,1,5,3,4,3,3,5,12,8,9,10,Salad,30,Did not answer,25.796999982377883
+5,11,E50,757,7,18 - 24,Woman,Undergraduate degree,"£20,000 - £29,999",At least once a week,3,4,4,4,3,3,6,9,12,5,13,Salad,30,No,27.828010322273517
+6,12,E50,529,5,18 - 24,Woman,Graduate degree,"£0 - £9,999",Less often,2,4,3,5,4,3,11,14,8,11,11,Salad,30,"Good study, please invite me to more.",15.474209424706306
+7,13,E50,435,3,18 - 24,Man,High school diploma,"£20,000 - £29,999",At least once a week,0,5,2,3,2,2,8,12,11,10,12,Salad,30,"Interesting survey, all went well.",21.50265503008521
+8,15,E50,1001,5,35 - 44,Woman,Undergraduate degree,"£20,000 - £29,999",At least once a week,3,5,4,5,3,3,11,10,13,7,7,Salad,30,Did not answer,25.552125288541966
+9,16,E50,388,4,35 - 44,Woman,Undergraduate degree,"£0 - £9,999",At least once a month,0,5,5,5,3,3,6,13,11,12,14,Salad,30,Not at this time.,24.798415040357447
+10,17,E50,590,4,35 - 44,Woman,Undergraduate degree,"£75,000 - £100,000",Multiple times a day,0,5,4,5,3,3,12,12,12,5,13,Salad,30,Did not answer,29.54094258851704
+11,18,E50,616,6,35 - 44,Woman,Undergraduate degree,"£10,000 - £19,999",At least once a day,3,5,4,5,3,3,4,5,5,14,11,Salad,30,"This was an interesting task, some of the objects could have straddled more than one category, and some of the categories I chose could have been split down into smaller groupings but I felt that level of granularity would have been unhelpful",20.21014186424461
+12,19,E50,732,5,35 - 44,Man,Undergraduate degree,"£40,000 - £49,999",At least once a day,1,5,4,5,3,3,11,11,11,8,8,Salad,30,Did not answer,34.36977140104003
+13,20,E50,395,3,35 - 44,Man,Secondary education,"£40,000 - £49,999",At least once a month,0,5,4,5,3,3,10,12,12,11,9,Salad,12,Did not answer,20.872096275778574
+14,23,E50,683,4,55+,Woman,Secondary education,"£10,000 - £19,999",Less often,0,4,4,4,3,3,12,10,11,5,9,Salad,30,Did not answer,14.00102354659212
+15,24,E50,827,4,45 - 54,Woman,High school diploma,"£0 - £9,999",At least once a week,3,4,3,4,3,3,9,12,11,8,6,Salad,30,Did not answer,18.495316267291795
+16,25,E50,651,10,45 - 54,Woman,Doctoral degree,"£50,000 - £74,999",At least once a week,3,5,4,5,3,3,13,6,13,9,11,Salad,30,No,29.329748288592874
+17,26,E50,971,9,45 - 54,Man,Graduate degree,"£50,000 - £74,999",At least once a week,0,4,3,3,2,3,8,11,9,10,11,Salad,30,no,29.83097946617651
+18,27,E50,423,4,45 - 54,Man,Undergraduate degree,"£30,000 - £39,999",Less often,1,5,4,5,3,3,7,12,12,10,10,Salad,30,Did not answer,25.927756482797417
+19,28,E50,724,4,45 - 54,Man,Technical/community college,"£40,000 - £49,999",At least once a month,0,5,4,5,2,3,10,12,9,6,11,Salad,30,Did not answer,20.578933970081575
+20,30,E50,878,7,45 - 54,Woman,Doctoral degree,"£40,000 - £49,999",At least once a month,0,4,3,4,3,3,10,14,11,8,7,Salad,30,Did not answer,28.178455174627043
+21,33,E50,526,6,35 - 44,Woman,Undergraduate degree,"£50,000 - £74,999",At least once a month,1,5,4,3,3,3,9,12,14,8,8,Salad,30,Did not answer,15.801824736097965
+22,34,E50,824,6,35 - 44,Man,Undergraduate degree,"£0 - £9,999",At least once a week,2,4,4,5,3,3,7,12,12,9,12,Salad,30,Thanks for having me. ,22.324071731151292
+23,35,E50,572,7,25 - 34,Woman,High school diploma,"£30,000 - £39,999",At least once a month,2,5,4,4,3,3,6,13,13,7,8,Salad,12,Did not answer,22.65664890112325
+24,37,E50,524,8,25 - 34,Woman,Undergraduate degree,"£40,000 - £49,999",At least once a month,2,5,5,5,3,2,6,10,8,9,8,Salad,30,That was really fun and interesting ,16.2072700452584
+25,38,E50,840,7,35 - 44,Man,Secondary education,"£20,000 - £29,999",At least once a week,1,5,4,5,3,3,8,13,12,6,10,Salad,30,"the study was clear and easy to use, had fun comming up with own groups rather than ones that are pre labled for you",31.5972323850907
+26,39,E50,657,5,25 - 34,Man,Graduate degree,"£40,000 - £49,999",At least once a day,0,4,3,3,4,3,10,10,8,10,10,Salad,30,Did not answer,23.51090569736864
+27,43,E50,794,5,35 - 44,Woman,High school diploma,"£20,000 - £29,999",At least once a day,1,5,3,5,3,3,8,10,10,12,8,Salad,30,Did not answer,37.66567586539733
+28,44,E50,1818,5,25 - 34,Woman,Undergraduate degree,"£30,000 - £39,999",At least once a month,1,5,5,5,3,3,10,14,9,12,10,Salad,12,Did not answer,18.982808209143624
+29,45,E50,676,11,25 - 34,Man,Undergraduate degree,"£20,000 - £29,999",At least once a day,3,3,4,5,3,3,13,13,15,4,8,Salad,30,UX / UI is very nice to use and intuitive ,24.22894448525943
+30,46,E50,491,5,25 - 34,Woman,Undergraduate degree,"£30,000 - £39,999",At least once a month,3,5,4,5,3,3,4,11,11,15,10,Salad,30,no,18.509982553515293
+31,47,E50,368,4,25 - 34,Man,Undergraduate degree,"£30,000 - £39,999",At least once a week,1,5,1,5,5,5,12,11,7,5,15,Salad,12,Did not answer,34.99721562396671
+32,48,E50,572,5,25 - 34,Man,Undergraduate degree,"£20,000 - £29,999",At least once a month,3,5,4,5,3,3,11,11,7,8,6,Salad,30,Did not answer,22.721743010744227
+33,49,E50,544,7,25 - 34,Man,Doctoral degree,"£40,000 - £49,999",At least once a day,3,5,4,5,3,4,5,9,12,14,13,Salad,30,"There were  some options which I felt would fit in more than one category. For example, graphics cards would fit under both ""Computers and accessories"" as well as ""Gaming"". For ""Drones"", I was not sure whether to put it in its own category, put it under miscellaneous or put it under portable devices. But most of the other items were relatively straightforward to decide",21.027659581965775
+34,51,E50,1065,11,25 - 34,Woman,Graduate degree,"£20,000 - £29,999",At least once a month,1,5,4,5,2,3,8,13,8,8,6,Salad,30,Did not answer,29.406576069058598
+35,53,E50,686,7,45 - 54,Man,Graduate degree,"£30,000 - £39,999",At least once a week,2,5,4,5,4,4,11,9,13,5,10,Salad,30,Thank you very much for a novel and surprisingly interesting study.,24.425825895084692
+36,55,E50,391,3,25 - 34,Man,Graduate degree,"£75,000 - £100,000",At least once a day,3,5,5,5,3,4,12,6,10,4,10,Salad,30,Did not answer,16.908356082664195
+37,57,E50,426,6,25 - 34,Man,Undergraduate degree,"£30,000 - £39,999",At least once a day,3,5,4,4,3,4,10,8,11,13,11,Salad,30,No :),23.357374573914765
+38,58,E50,343,7,25 - 34,Woman,Graduate degree,"£40,000 - £49,999",At least once a day,3,4,4,4,3,4,6,9,10,11,11,Salad,30,na,17.543686155037765
+39,59,E50,562,7,35 - 44,Man,Undergraduate degree,"£20,000 - £29,999",At least once a month,3,4,4,5,3,3,10,10,12,9,13,Salad,30,No thank you. Lots of fun :),39.228926118937565
+40,4,E30,544,3,18 - 24,Man,Graduate degree,"£40,000 - £49,999",At least once a day,0,4,4,5,4,4,8,14,13,7,11,Salad,30,i love the categories,20.16385236747445
+41,5,E30,408,5,18 - 24,Man,Undergraduate degree,"£20,000 - £29,999",At least once a week,3,5,5,5,3,4,7,10,8,7,9,Salad,30,No,24.37040633640391
+42,6,E30,790,6,18 - 24,Woman,Undergraduate degree,No income,Less often,0,5,5,5,3,3,4,11,11,4,6,Salad,30,Did not answer,38.889816603463785
+43,7,E30,389,3,18 - 24,Woman,Undergraduate degree,No income,At least once a week,0,4,5,5,4,3,10,12,9,11,12,Salad,30,,14.108861220111583
+44,9,E30,398,2,18 - 24,Man,High school diploma,"£20,000 - £29,999",At least once a week,0,5,3,3,2,2,9,10,6,10,12,Salad,30,"Interesting study, got me thinking",25.144566153845254
+45,10,E30,571,3,18 - 24,Man,High school diploma,"£0 - £9,999",Less often,2,5,4,5,2,4,11,10,12,9,11,Salad,30,,24.891174726711554
+46,11,E30,632,5,18 - 24,Woman,Undergraduate degree,"£10,000 - £19,999",At least once a week,1,5,4,5,3,3,12,12,10,6,10,Salad,30,Did not answer,19.173378143244413
+47,13,E30,1145,5,25 - 34,Woman,High school diploma,"£30,000 - £39,999",At least once a month,0,3,2,4,3,2,8,12,8,11,14,Salad,30,Did not answer,11.713953810020048
+48,14,E30,388,6,25 - 34,Woman,Secondary education,"£10,000 - £19,999",At least once a month,1,5,5,5,2,3,7,12,10,7,5,Salad,30,Did not answer,20.88321555441525
+49,15,E30,946,8,35 - 44,Woman,Undergraduate degree,"£30,000 - £39,999",At least once a day,2,3,2,3,2,3,10,12,10,9,11,Salad,30,Did not answer,22.3946356389753
+50,16,E30,783,4,35 - 44,Man,Undergraduate degree,"£40,000 - £49,999",Less often,2,5,4,5,4,2,6,9,12,8,7,Salad,30,,39.423201390021944
+51,17,E30,355,6,25 - 34,Woman,Graduate degree,"£0 - £9,999",At least once a month,3,4,3,5,3,3,3,11,10,13,10,Salad,30,Did not answer,16.676895025250307
+52,18,E30,542,6,35 - 44,Woman,Doctoral degree,"£40,000 - £49,999",At least once a week,0,5,4,5,3,2,6,13,15,10,10,Salad,30,Did not answer,25.838690467624218
+53,19,E30,318,3,35 - 44,Woman,High school diploma,"£20,000 - £29,999",At least once a month,0,4,2,3,3,2,6,12,11,10,9,Salad,30,no,27.06217094136178
+54,20,E30,822,9,18 - 24,Woman,Technical/community college,"£0 - £9,999",At least once a month,0,4,3,5,3,3,6,12,7,12,11,Salad,30,Did not answer,28.73975102958754
+55,21,E30,926,15,25 - 34,Woman,Undergraduate degree,"£10,000 - £19,999",Less often,0,4,2,4,2,3,4,10,5,13,9,Salad,30,Wasn't sure what kind of trimmers,36.264343878296884
+56,22,E30,316,8,35 - 44,Man,Undergraduate degree,"£20,000 - £29,999",At least once a week,3,5,4,5,3,4,10,10,10,10,7,Salad,30,,26.634059744526674
+57,23,E30,224,4,35 - 44,Man,Graduate degree,"£20,000 - £29,999",At least once a week,0,5,5,5,3,4,6,10,9,9,9,Salad,30,Did not answer,23.11181738139811
+58,24,E30,278,4,25 - 34,Woman,Undergraduate degree,"£20,000 - £29,999",At least once a week,3,5,5,5,3,2,5,7,6,13,10,Salad,30,,14.317414837320683
+59,25,E30,406,5,25 - 34,Woman,Undergraduate degree,"£0 - £9,999",At least once a week,1,5,5,5,3,3,8,13,10,9,14,Salad,30,A nice UI and easy to understand.,15.673859816367491
+60,26,E30,376,6,25 - 34,Woman,Secondary education,"£0 - £9,999",At least once a week,3,5,5,5,2,2,6,9,7,12,8,Salad,30,no,29.13329969098692
+61,27,E30,914,7,25 - 34,Man,Graduate degree,"£30,000 - £39,999",At least once a week,2,5,5,5,4,4,12,11,12,3,15,Salad,30,Did not answer,23.889401910729962
+62,30,E30,1880,5,35 - 44,Man,Undergraduate degree,"£50,000 - £74,999",At least once a week,2,5,3,5,3,5,7,9,13,11,13,Salad,30,Did not answer,20.803002108949766
+63,31,E30,631,8,35 - 44,Woman,Undergraduate degree,"£10,000 - £19,999",Less often,3,5,4,5,3,3,11,9,12,7,13,Salad,30,no,25.49696245523666
+64,32,E30,546,6,35 - 44,Woman,Graduate degree,"£10,000 - £19,999",At least once a month,0,5,5,5,3,3,7,15,14,7,10,Salad,30,Did not answer,33.0075148949554
+65,34,E30,536,3,45 - 54,Man,High school diploma,"£50,000 - £74,999",Less often,0,5,5,5,3,3,11,12,11,6,9,Salad,30,Did not answer,11.42717403616765
+66,35,E30,786,8,45 - 54,Woman,Graduate degree,"£0 - £9,999",At least once a month,3,2,2,2,3,3,7,10,11,8,12,Salad,30,Did not answer,27.90507970949964
+67,36,E30,545,4,45 - 54,Woman,Technical/community college,"£20,000 - £29,999",At least once a month,1,5,4,4,3,3,7,11,10,8,11,Salad,30,Did not answer,24.068176619572107
+68,37,E30,443,4,45 - 54,Man,Undergraduate degree,"£40,000 - £49,999",At least once a month,2,4,4,5,3,3,8,12,14,4,9,Salad,30,Did not answer,22.22459207952022
+69,38,E30,397,4,55+,Woman,Undergraduate degree,"£50,000 - £74,999",At least once a week,2,4,3,5,3,3,7,7,13,5,6,Salad,30,Did not answer,15.870078403354121
+70,39,E30,776,4,45 - 54,Man,Secondary education,No income,At least once a month,3,5,5,5,3,3,10,13,14,5,12,Salad,30,no,27.090938933234742
+71,40,E30,785,9,55+,Man,Secondary education,"£40,000 - £49,999",At least once a day,0,4,4,5,2,3,10,11,10,6,8,Salad,30,great study,15.298900014456828
+72,41,E30,1035,7,45 - 54,Woman,Secondary education,"£50,000 - £74,999",At least once a month,0,5,4,5,3,2,9,9,12,5,9,Salad,30,Did not answer,25.935676187021635
+73,43,E30,446,4,25 - 34,Man,Undergraduate degree,"£30,000 - £39,999",At least once a week,0,5,4,4,4,4,11,9,10,6,9,Salad,30,No,13.801751899941173
+74,44,E30,596,9,25 - 34,Man,Undergraduate degree,"£10,000 - £19,999",At least once a week,1,5,5,5,3,4,6,9,9,11,12,Salad,30,Did not answer,41.485815885923415
+75,46,E30,407,7,25 - 34,Man,Graduate degree,"£20,000 - £29,999",At least once a day,3,5,4,5,4,3,11,15,13,8,8,Salad,30,Did not answer,29.432649690940064
+76,47,E30,486,10,25 - 34,Man,High school diploma,"£30,000 - £39,999",Less often,3,4,4,4,3,3,5,12,6,10,7,Salad,30,no,18.32355329066639
+77,48,E30,590,7,25 - 34,Man,Graduate degree,"£30,000 - £39,999",At least once a month,0,3,2,4,2,2,8,11,10,11,9,Salad,30,Did not answer,15.238464755700859
+78,49,E30,418,4,25 - 34,Man,Graduate degree,"£30,000 - £39,999",At least once a week,3,5,4,5,3,4,9,10,8,7,12,Salad,30,no,16.235749295918502
+79,51,E30,417,7,35 - 44,Man,Graduate degree,"£75,000 - £100,000",At least once a month,1,4,2,4,2,3,5,13,8,12,13,Salad,30,thanks,17.749334652542107
+80,5,B50,1474,10,18 - 24,Man,High school diploma,"£10,000 - £19,999",At least once a week,3,4,3,5,2,2,7,9,10,9,5,Salad,30,Did not answer,19.861930180438804
+81,6,B50,975,6,18 - 24,Man,Graduate degree,"£10,000 - £19,999",At least once a day,0,4,3,3,2,3,7,11,10,9,10,Salad,30,Did not answer,24.532905288664214
+82,8,B50,781,8,18 - 24,Woman,Graduate degree,"£30,000 - £39,999",At least once a week,1,4,3,4,3,3,8,11,11,9,12,Salad,30,Did not answer,22.307864893564837
+83,9,B50,461,4,18 - 24,Man,High school diploma,"£20,000 - £29,999",At least once a day,2,4,3,4,4,3,9,11,10,7,12,Salad,30,Did not answer,22.446722028818805
+84,10,B50,725,6,18 - 24,Woman,Undergraduate degree,No income,Less often,3,4,2,4,3,3,7,8,8,15,13,Salad,30,no,22.22893240128455
+85,11,B50,1367,11,18 - 24,Woman,Undergraduate degree,"£20,000 - £29,999",At least once a month,3,5,3,4,2,2,5,13,10,6,14,Salad,30,Did not answer,23.239204793893478
+86,12,B50,786,7,18 - 24,Man,Technical/community college,"£20,000 - £29,999",Multiple times a day,3,4,4,3,3,2,9,13,10,7,12,Salad,30,Did not answer,28.805426073132733
+87,15,B50,755,5,18 - 24,Woman,High school diploma,"£10,000 - £19,999",At least once a day,3,5,3,5,3,2,7,12,8,9,12,Salad,30,Did not answer,17.919114745792225
+88,18,B50,648,10,55+,Woman,High school diploma,"£10,000 - £19,999",Less often,3,3,4,5,3,3,5,13,12,10,13,Salad,30,I didn't understand one of the terms so had to put that in a separate category.,22.06050088850594
+89,19,B50,1310,9,35 - 44,Woman,Graduate degree,"£20,000 - £29,999",At least once a week,0,5,5,5,3,3,14,15,12,5,15,Salad,12,The study helps me remember to always sort my daily activities according to category and in other of important,25.753306338083743
+90,20,B50,1756,10,25 - 34,Man,Undergraduate degree,"£20,000 - £29,999",Multiple times a day,0,5,2,4,2,2,10,15,15,3,15,Salad,30,"It is a nice study on categorizing things associated with banking, I had a good time completing it.",18.579818799552456
+91,21,B50,1557,4,25 - 34,Woman,Graduate degree,"£30,000 - £39,999",At least once a week,3,4,3,3,1,3,8,13,13,7,13,Salad,30,no,16.1118953996374
+92,22,B50,1485,5,25 - 34,Man,Undergraduate degree,"£50,000 - £74,999",At least once a day,1,5,4,5,3,2,11,10,12,10,9,Salad,30,Did not answer,16.277032279355673
+93,24,B50,545,7,35 - 44,Woman,Undergraduate degree,"£20,000 - £29,999",At least once a week,1,3,2,4,3,2,9,11,13,8,9,Salad,30,Did not answer,19.092192037678043
+94,26,B50,742,7,25 - 34,Woman,Doctoral degree,"£20,000 - £29,999",At least once a week,1,3,2,5,3,3,7,13,12,12,9,Salad,30,,21.336782304857074
+95,28,B50,1874,13,35 - 44,Woman,Doctoral degree,"£75,000 - £100,000",At least once a week,3,4,4,5,3,3,9,12,11,7,10,Salad,30,Did not answer,18.04357622749149
+96,29,B50,1872,9,25 - 34,Woman,Undergraduate degree,"£10,000 - £19,999",At least once a week,2,4,4,3,2,1,7,15,13,5,11,Salad,30,its truly engaging and mind involving. one has to be a critical thinker to sort through things faster. ,25.114781816081862
+97,30,B50,575,8,45 - 54,Woman,Graduate degree,"£20,000 - £29,999",At least once a day,0,5,3,4,4,3,7,10,9,10,11,Salad,30,Did not answer,17.634744342896578
+98,31,B50,1422,9,55+,Man,Undergraduate degree,"£0 - £9,999",At least once a day,3,4,2,4,2,2,4,10,11,11,9,Salad,30,No.,15.377280881019207
+99,32,B50,664,6,45 - 54,Man,Undergraduate degree,"£30,000 - £39,999",At least once a week,3,5,2,5,3,3,6,8,12,10,10,Salad,30,Did not answer,13.00408795243832
+100,34,B50,501,6,25 - 34,Man,Technical/community college,"£20,000 - £29,999",At least once a week,3,4,2,4,3,2,8,12,12,10,10,Salad,30,"No, it was an interesting study. Thank you.",14.826547332777354
+101,35,B50,648,10,35 - 44,Man,Graduate degree,"£50,000 - £74,999",At least once a month,3,5,4,5,3,3,12,14,15,6,15,Salad,30,Did not answer,24.206685450325
+102,36,B50,482,8,45 - 54,Man,Graduate degree,"£50,000 - £74,999",At least once a week,2,5,4,5,3,2,14,8,14,4,11,Salad,30,Did not answer,20.71306654473721
+103,37,B50,1463,9,35 - 44,Man,Undergraduate degree,"£0 - £9,999",At least once a week,3,5,3,5,2,3,3,9,10,13,7,Salad,30,No comments.,23.423130290783725
+104,38,B50,1037,7,45 - 54,Woman,Secondary education,"£30,000 - £39,999",At least once a day,1,4,3,3,3,1,9,15,15,8,7,Salad,30,,18.650275085694826
+105,40,B50,678,8,25 - 34,Man,Undergraduate degree,"£20,000 - £29,999",At least once a week,2,4,3,4,4,2,9,10,8,9,12,Salad,30,Did not answer,14.853674333977747
+106,41,B50,764,10,35 - 44,Man,Technical/community college,"£40,000 - £49,999",Less often,3,3,3,4,3,2,4,12,10,11,10,Salad,30,Did not answer,17.89170006742847
+107,42,B50,522,3,45 - 54,Man,Graduate degree,"£40,000 - £49,999",At least once a day,3,5,4,4,3,3,9,10,11,10,12,Salad,30,Did not answer,8.327286878443124
+108,43,B50,585,12,25 - 34,Man,Undergraduate degree,"£30,000 - £39,999",At least once a day,3,4,3,5,2,2,5,11,7,12,10,Salad,30,Did not answer,14.544576586888764
+109,44,B50,584,12,25 - 34,Woman,Graduate degree,"£20,000 - £29,999",Multiple times a day,0,5,4,5,3,3,13,14,14,5,15,Salad,30,no,19.386878184636075
+110,45,B50,684,6,25 - 34,Woman,Undergraduate degree,"£20,000 - £29,999",Less often,3,5,5,5,3,3,9,13,7,13,13,Salad,30,Did not answer,19.283582102590618
+111,46,B50,813,5,25 - 34,Woman,Undergraduate degree,"£20,000 - £29,999",At least once a day,0,5,3,5,3,3,9,13,10,8,9,Salad,30,no,24.33083377451101
+112,47,B50,728,6,35 - 44,Man,Technical/community college,"£30,000 - £39,999",At least once a day,1,5,5,5,3,1,7,13,12,6,9,Salad,30,No,14.090889332063226
+113,48,B50,362,4,35 - 44,Man,Graduate degree,"£50,000 - £74,999",At least once a day,2,5,5,5,3,3,8,13,12,6,11,Salad,30,Did not answer,17.805338170728138
+114,49,B50,433,9,35 - 44,Woman,Undergraduate degree,"£40,000 - £49,999",Multiple times a day,0,5,5,5,3,1,12,12,9,9,10,Salad,30,Did not answer,21.80782469726317
+115,50,B50,1911,6,35 - 44,Woman,Doctoral degree,"£40,000 - £49,999",At least once a month,2,3,2,3,2,1,8,12,14,7,13,Salad,30,Did not answer,32.792940613692615
+116,51,B50,422,7,25 - 34,Man,Undergraduate degree,"£50,000 - £74,999",At least once a week,2,3,3,2,2,1,5,11,14,7,9,Other,12,Did not answer,16.083558382220936
+117,52,B50,818,5,25 - 34,Man,Undergraduate degree,"£30,000 - £39,999",At least once a month,3,4,4,5,3,2,7,10,10,10,13,Salad,30,Did not answer,37.84302711107022
+118,54,B50,1024,9,25 - 34,Woman,Undergraduate degree,"£30,000 - £39,999",At least once a week,2,4,4,5,4,3,15,12,14,8,11,Salad,30,Did not answer,17.27055003487451
+119,55,B50,662,8,45 - 54,Woman,Graduate degree,"£40,000 - £49,999",At least once a week,3,3,4,4,3,2,7,14,12,8,11,Salad,30,Did not answer,15.231197611388357
+120,8,B30,455,3,18 - 24,Man,High school diploma,"£20,000 - £29,999",Multiple times a day,2,4,5,5,4,2,8,11,11,6,12,Salad,30,Did not answer,14.363007162729154
+121,9,B30,306,6,18 - 24,Woman,Undergraduate degree,No income,At least once a day,3,3,3,5,4,4,5,12,13,14,12,Salad,30,Did not answer,26.79687389146878
+122,10,B30,836,12,18 - 24,Woman,Undergraduate degree,"£40,000 - £49,999",At least once a month,0,5,2,5,2,2,8,12,14,6,11,Salad,30,Cards were a lot but i luckily powered through it,20.465523943536002
+123,11,B30,406,3,18 - 24,Man,Undergraduate degree,"£30,000 - £39,999",At least once a day,3,4,4,3,3,3,9,12,8,8,12,Salad,30,Did not answer,18.091153616217746
+124,12,B30,388,4,18 - 24,Woman,Graduate degree,"£20,000 - £29,999",At least once a week,1,4,4,3,3,2,11,10,10,9,9,Salad,30,Did not answer,20.122533734518722
+125,13,B30,515,5,18 - 24,Woman,Technical/community college,"£10,000 - £19,999",At least once a month,0,4,2,3,4,2,9,12,8,8,12,Salad,30,Did not answer,11.286834612658069
+126,14,B30,495,6,18 - 24,Man,Graduate degree,"£30,000 - £39,999",At least once a week,3,4,3,4,3,3,12,11,10,8,9,Salad,30,Did not answer,10.88820992480587
+127,19,B30,970,9,18 - 24,Man,Technical/community college,"£0 - £9,999",At least once a week,2,5,3,4,3,3,8,11,12,6,14,Salad,30,Did not answer,17.724856250937176
+128,21,B30,972,4,45 - 54,Woman,Undergraduate degree,"£40,000 - £49,999",Multiple times a day,3,5,4,5,3,3,7,13,11,12,8,Salad,30,Did not answer,15.89585103435688
+129,22,B30,652,11,45 - 54,Woman,Secondary education,"£20,000 - £29,999",At least once a week,0,3,4,2,3,3,8,11,9,8,8,Salad,30,No,19.103575895471153
+130,23,B30,457,7,45 - 54,Man,High school diploma,"£20,000 - £29,999",At least once a week,0,4,3,3,3,3,13,15,12,5,10,Salad,30,NO,14.061222487621578
+131,24,B30,712,5,55+,Woman,Graduate degree,"£10,000 - £19,999",At least once a week,3,5,3,4,3,2,7,12,13,11,11,Salad,30,Did not answer,33.78309394055125
+132,25,B30,577,5,45 - 54,Woman,Graduate degree,"£10,000 - £19,999",At least once a week,2,5,2,5,3,3,9,13,8,13,13,Salad,30,no,26.38157320071823
+133,26,B30,458,4,55+,Man,Secondary education,"£20,000 - £29,999",Multiple times a day,3,4,4,5,3,3,8,11,7,10,13,Salad,30,Did not answer,12.191545819167832
+134,27,B30,679,6,45 - 54,Man,Graduate degree,"£40,000 - £49,999",At least once a week,0,4,2,5,3,3,11,13,9,7,13,Salad,30,Did not answer,23.0752546507097
+135,28,B30,1017,10,45 - 54,Man,High school diploma,"£30,000 - £39,999",At least once a week,1,5,4,5,3,3,9,10,15,8,12,Salad,30,Did not answer,19.536072762778524
+136,31,B30,1124,6,25 - 34,Nonbinary,Graduate degree,"£20,000 - £29,999",At least once a month,0,5,4,3,2,3,8,12,10,14,14,Salad,30,,28.35879906426995
+137,35,B30,577,5,25 - 34,Woman,Graduate degree,"£20,000 - £29,999",At least once a day,1,4,4,4,3,3,7,10,7,14,9,Salad,30,Did not answer,26.825009057668666
+138,37,B30,727,6,25 - 34,Woman,Graduate degree,"£10,000 - £19,999",At least once a day,0,2,2,5,3,2,8,11,13,9,14,Salad,30,Did not answer,25.057617331156194
+139,38,B30,989,8,35 - 44,Man,Graduate degree,"£75,000 - £100,000",At least once a week,0,4,5,3,4,4,5,12,11,10,9,Salad,30,Did not answer,16.406568143859964
+140,40,B30,508,6,25 - 34,Woman,Undergraduate degree,"£20,000 - £29,999",At least once a week,3,3,2,4,3,3,8,9,10,13,8,Salad,30,Did not answer,31.802417109722466
+141,41,B30,839,4,35 - 44,Woman,Graduate degree,"£40,000 - £49,999",At least once a month,3,4,3,5,3,3,4,13,9,12,11,Salad,30,Did not answer,21.385744936841135
+142,42,B30,702,7,25 - 34,Man,Graduate degree,"£40,000 - £49,999",Multiple times a day,1,3,3,4,3,4,7,13,9,9,10,Salad,30,Did not answer,19.865040518987477
+143,43,B30,519,6,35 - 44,Woman,Secondary education,"£40,000 - £49,999",At least once a week,0,5,4,5,3,2,11,14,8,10,11,Salad,30,No thanks,25.92238574464706
+144,44,B30,829,5,35 - 44,Woman,Undergraduate degree,"£10,000 - £19,999",At least once a day,2,5,4,4,3,3,5,8,12,10,10,Salad,30,It was interesting.,13.148850988073661
+145,45,B30,528,6,25 - 34,Man,Undergraduate degree,"£20,000 - £29,999",At least once a month,1,5,4,2,2,3,7,12,7,8,12,Salad,30,Did not answer,23.06530426333867
+146,46,B30,1051,4,25 - 34,Man,Secondary education,"£30,000 - £39,999",At least once a day,1,5,4,5,3,3,12,12,14,3,10,Salad,30,Did not answer,18.661889545413647
+147,47,B30,501,3,25 - 34,Man,Secondary education,"£20,000 - £29,999",At least once a day,0,4,2,4,3,3,7,12,9,8,7,Salad,30,Did not answer,18.069444181551926
+148,50,B30,342,5,35 - 44,Man,Undergraduate degree,"£20,000 - £29,999",At least once a day,3,5,4,5,3,2,3,8,9,13,9,Salad,30,Did not answer,16.541839130578342
+149,51,B30,551,10,35 - 44,Woman,Technical/community college,"£0 - £9,999",At least once a month,1,3,4,3,3,2,6,13,10,14,12,Salad,30,Did not answer,18.174746349423657
+150,53,B30,327,4,25 - 34,Woman,Graduate degree,"£30,000 - £39,999",Less often,3,4,4,5,3,3,5,12,13,5,15,Salad,30,Did not answer,13.943486982887505
+151,54,B30,394,4,25 - 34,Woman,Technical/community college,"£20,000 - £29,999",At least once a month,1,5,4,5,4,3,6,14,13,10,13,Salad,30,nothing else to add,17.056304089534294
+152,55,B30,733,4,25 - 34,Woman,Secondary education,"£20,000 - £29,999",At least once a week,0,5,4,5,4,3,4,12,14,12,12,Salad,30,Did not answer,32.378617854559906
+153,57,B30,606,7,25 - 34,Man,Undergraduate degree,"£30,000 - £39,999",At least once a day,1,5,4,5,2,3,8,13,14,6,8,Salad,30,Did not answer,15.812278474880609
+154,58,B30,446,3,25 - 34,Man,Graduate degree,"£40,000 - £49,999",At least once a week,2,5,4,3,4,3,8,4,12,13,11,Salad,30,No,38.58930079027372
+155,60,B30,443,6,35 - 44,Woman,Graduate degree,"More than £100,000",At least once a month,2,5,4,5,3,2,14,13,15,4,11,Salad,30,Did not answer,17.30233454528296
+156,61,B30,459,10,35 - 44,Man,Graduate degree,"£30,000 - £39,999",Less often,1,4,3,5,3,3,8,14,11,11,12,Salad,30,Did not answer,24.71523948036569
+157,62,B30,871,10,35 - 44,Man,Secondary education,"£75,000 - £100,000",At least once a day,2,4,3,3,3,2,10,10,11,8,11,Salad,30,No.,21.1014174450097
+158,63,B30,502,7,35 - 44,Man,Doctoral degree,"£40,000 - £49,999",At least once a day,0,4,2,5,3,3,5,13,15,6,9,Salad,30,Did not answer,16.879723951661823
+159,65,B30,508,4,35 - 44,Man,Undergraduate degree,"£10,000 - £19,999",At least once a week,1,5,4,5,3,3,10,10,10,7,12,Salad,30,,26.221182189047326
