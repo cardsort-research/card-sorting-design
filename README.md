@@ -1,4 +1,4 @@
-# Card sorting research
+# Card Sorting with Fewer Cards and the Same Mental Models? A Re-examination of an Established Practice
 
 ## About
 
